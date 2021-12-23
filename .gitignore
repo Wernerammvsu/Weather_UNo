@@ -42,6 +42,7 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+.vs/
 
 # DNX
 project.lock.json
